@@ -2,7 +2,7 @@
 
 ## Ссылка на тест-кейс
 
-[Открыть тест-кейс Kaspi.kz в Google Таблицах]([https://docs.google.com/spreadsheets/d/1RdAREbzx5YbvXCsHZAjkSybbAnbvDgUjxjGDuujJZAY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RdAREbzx5YbvXCsHZAjkSybbAnbvDgUjxjGDuujJZAY/edit?gid=0#gid=0))
+[Открыть тест-кейс Kaspi.kz в Google Таблицах]([https://docs.google.com/spreadsheets/d/1RdAREbzx5YbvXCsHZAjkSybbAnbvDgUjxjGDuujJZAY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RdAREbzx5YbvXCsHZAjkSybbAnbvDgUjxjGDuujJZAY/edit?gid=0#gid=0)
 
 ## Описание
 Данный тест-кейс предназначен для проверки функционала Kaspi.kz:
